@@ -1,4 +1,5 @@
 function login(username, password) {
+  // Updated login function for feature branch testing
   // Tài khoản đúng
   if (username === "admin" && password === "123") {
     return true;
